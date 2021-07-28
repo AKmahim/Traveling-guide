@@ -9,4 +9,4 @@
 - Here is the website link ---> https://akmahim.github.io/Traveling-guide/
 
 
-![travel-website](https://github.com/AKmahim/Web-development/blob/master/travel-website/images/ss.png)
+![travel-website](https://github.com/AKmahim/Traveling-guide/blob/master/images/ss.png)
